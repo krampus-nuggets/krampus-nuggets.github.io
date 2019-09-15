@@ -14,3 +14,13 @@ Introduction
 <span class="infoOutput">Experience:</span> 5 years total programming experience
 <span class="infoOutput">Titles:</span> Full Stack Engineer, Backend Engineer, DevOps Engineer & SecOps Engineer
 <span class="infoOutput">Contact Me:</span> <a href="mailto:sp3cter.productions@wemakeart.co.za">Email</a>
+<h3>
+Tool/Technology Familiarity
+===========================
+</h3>
+<span class="infoOutput">Frontend:</span> HTML5, CSS3, JavaScript, ReactJS, VueJS & Bootstrap
+<span class="infoOutput">Backend:</span> Python, Ruby, JavaScript, PHP, GraphQL, Go, Bash, Batch & YAML
+<span class="infoOutput">Databases:</span> MySQL, MariaDB, DynamoDB, PostgreSQL & MongoDB
+<span class="infoOutput">Operating Systems:</span> Microsoft Windows & Linux
+<span class="infoOutput">Cloud Environments:</span> Amazon Cloud Platform, Google Cloud Platform & Digital Ocean
+<span class="infoOutput">Environment Tools:</span> Git, NodeJS, WAMP, LAMP, Docker & Pulseway<br/>
