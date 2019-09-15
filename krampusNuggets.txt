@@ -1,3 +1,8 @@
-<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd docs/aboutUs
-<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cat krampus-nuggets.txt<br/><br/>
+<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd Nietzsche/
+<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cat nietzscheQuote.txt
+<br/>
 "<span id="quote">There are no facts, only interpretations</span>" - Friedrich Nietzsche
+<br/>
+<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd ../
+<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd docs/aboutUs
+<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cat krampus-nuggets.txt<br/>
