@@ -6,3 +6,11 @@
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd ../
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd docs/aboutUs
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cat krampus-nuggets.txt<br/>
+<h3>
+Introduction
+============
+</h3>
+<span class="infoOutput">Name:</span> Brandon Williams
+<span class="infoOutput">Experience:</span> 5 years total programming experience
+<span class="infoOutput">Titles:</span> Full Stack Engineer, Backend Engineer, DevOps Engineer & SecOps Engineer
+<span class="infoOutput">Contact Me:</span> <a href="mailto:sp3cter.productions@wemakeart.co.za">Email</a>
