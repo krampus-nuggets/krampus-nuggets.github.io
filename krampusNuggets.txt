@@ -1,1 +1,2 @@
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd Docs/About_Us
+<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cat krampus-nuggets.txt<br/><br/>
