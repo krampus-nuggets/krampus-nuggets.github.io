@@ -1,0 +1,40 @@
+body {
+	background-color: #000
+}
+
+#terminalOutput {
+	font-family: courier, monospace;
+	color: #fff;
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	font-size:14px;
+}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+#userName-systemName {
+	color: #0f0;
+}
+
+#terminalString {
+	color: #0bc;
+}
+
+#terminalSymbols {
+	color: #ff0096;
+}
+
+#quote {
+    	animation: change 1s;
+}
+
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
+}
