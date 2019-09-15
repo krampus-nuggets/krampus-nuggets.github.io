@@ -33,3 +33,8 @@ a {
     	animation: change 1s;
 }
 
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
+}
