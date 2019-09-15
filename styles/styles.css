@@ -29,3 +29,7 @@ a {
 	color: #ff0096;
 }
 
+#quote {
+    	animation: change 1s;
+}
+
