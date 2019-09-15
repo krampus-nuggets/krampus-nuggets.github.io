@@ -5,11 +5,16 @@ body {
 #terminalOutput {
 	font-family: courier, monospace;
 	color: #fff;
-	width:750px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-top:100px;
-	font-size:14px;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-size: 14px;
+}
+
+.infoOutput {
+	color: #ff05ea;
 }
 
 a {
