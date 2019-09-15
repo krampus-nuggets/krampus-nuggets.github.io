@@ -24,3 +24,9 @@ Tool/Technology Familiarity
 <span class="infoOutput">Operating Systems:</span> Microsoft Windows & Linux
 <span class="infoOutput">Cloud Environments:</span> Amazon Cloud Platform, Google Cloud Platform & Digital Ocean
 <span class="infoOutput">Environment Tools:</span> Git, NodeJS, WAMP, LAMP, Docker & Pulseway<br/>
+<h3>
+Non-Work Related Experience
+===========================
+</h3>
+<span class="infoOutput">Design/Editing:</span> Adobe Photoshop, Adobe Illustrator, Adobe AfterFX & Adobe Premier Pro
+<span class="infoOutput">Penetration Testing [Attack-Orientated]:</span> Writing Tools & Setup/Testing Vulnerable Machines
