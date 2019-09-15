@@ -1,0 +1,1 @@
+<span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd Docs/About_Us
