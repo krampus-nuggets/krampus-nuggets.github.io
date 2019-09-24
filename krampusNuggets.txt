@@ -14,7 +14,7 @@
 
 <span class="infoOutput">Name:</span> Brandon Williams
 <span class="infoOutput">Experience:</span> 5 years total programming experience
-<span class="infoOutput">Titles:</span> Full Stack Engineer, Backend Engineer, DevOps Engineer & SecOps Engineer
+<span class="infoOutput">Titles:</span> Full Stack Engineer, Backend Engineer & DevOps Engineer
 <span class="infoOutput">Contact Me:</span> <a href="mailto:sp3cter.productions@wemakeart.co.za">Email</a>
 
 <h3 class="dontBeADouce">Tool/Technology Familiarity</h3>
