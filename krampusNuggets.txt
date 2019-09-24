@@ -1,32 +1,34 @@
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd Nietzsche/
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cat nietzscheQuote.txt
-<br/>
+
+
 "<span id="quote">There are no facts, only interpretations</span>" - Friedrich Nietzsche
-<br/>
+
+
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd ../
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cd docs/aboutUs
 <span id="linuxPrefix">krampus-nuggets@wemakeart</span>:<span id="terminalSymbols">~</span><span id="terminalString">$</span> cat krampus-nuggets.txt<br/>
-<h3>
-Introduction
+
+<h3>Introduction</h3>
 ============
-</h3>
+
 <span class="infoOutput">Name:</span> Brandon Williams
 <span class="infoOutput">Experience:</span> 5 years total programming experience
 <span class="infoOutput">Titles:</span> Full Stack Engineer, Backend Engineer, DevOps Engineer & SecOps Engineer
 <span class="infoOutput">Contact Me:</span> <a href="mailto:sp3cter.productions@wemakeart.co.za">Email</a>
-<h3>
-Tool/Technology Familiarity
+
+<h3>Tool/Technology Familiarity</h3>
 ===========================
-</h3>
+
 <span class="infoOutput">Frontend:</span> HTML5, CSS3, JavaScript, ReactJS, VueJS & Bootstrap
 <span class="infoOutput">Backend:</span> Python, Ruby, JavaScript, PHP, GraphQL, Go, Bash, Batch & YAML
 <span class="infoOutput">Databases:</span> MySQL, MariaDB, DynamoDB, PostgreSQL & MongoDB
 <span class="infoOutput">Operating Systems:</span> Microsoft Windows & Linux
 <span class="infoOutput">Cloud Environments:</span> Amazon Cloud Platform, Google Cloud Platform & Digital Ocean
 <span class="infoOutput">Environment Tools:</span> Git, NodeJS, WAMP, LAMP, Docker & Pulseway<br/>
-<h3>
-Non-Work Related Experience
+
+<h3>Non-Work Related Experience</h3>
 ===========================
-</h3>
+
 <span class="infoOutput">Design/Editing:</span> Adobe Photoshop, Adobe Illustrator, Adobe AfterFX & Adobe Premier Pro
 <span class="infoOutput">Penetration Testing [Attack-Orientated]:</span> Writing Tools & Setup/Testing Vulnerable Machines
