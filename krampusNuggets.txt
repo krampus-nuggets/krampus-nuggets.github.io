@@ -37,6 +37,9 @@
 <h3 class="dontBeADouce">Highlight Projects</h3>
 ====
 
+<span class="infoOutput">Pimp My Book</span> -> <a href="https://www.pimpmybook.co.za">Link</a>
+<span class="infoOutput">Economic Justic Network</span> -> <a href="https://www.ejn.org.za">Link</a>
+<span class="infoOutput">WeMakeArt</span> -> <a href="https://www.wemakeart.co.za">Link</a>
 
 <h3 class="dontBeADouce">Dev Social Accounts</h3>
 ====
