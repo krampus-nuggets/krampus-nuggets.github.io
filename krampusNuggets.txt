@@ -31,7 +31,8 @@
 ====
 
 <span class="infoOutput">Design/Editing:</span> Adobe Photoshop, Adobe Illustrator, Adobe AfterFX & Adobe Premier Pro
-<span class="infoOutput">Penetration Testing [Attack-Orientated]:</span> Writing Tools & Setup/Testing Vulnerable Machines
+<span class="infoOutput">Penetration Testing:</span> Red & Yellow oriented methodologies
+<span class="infoOutput">Creative:</span> Music Production, Sound Engineering & Vocal Engineering
 
 <h3 class="dontBeADouce">Highlight Projects</h3>
 ====
