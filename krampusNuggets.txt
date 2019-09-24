@@ -50,3 +50,10 @@
 <h3 class="dontBeADouce">Interested in my Creative Work?</h3>
 ====
 
+<span class="infoOutput">WeMakeArt - Art & Videos [Instagram]</span> -> <a href="https://www.instagram.com/wemakeart.official/">Link</a>
+<span class="infoOutput">WeMakeArt - Music</span> -> <a href="https://wemakeart.beatstars.com/">Link</a>
+<span class="infoOutput">WeMakeArt - Videos [Youtube]</span> -> <a href="https://www.youtube.com/channel/UC10bQmNNjEr0pR3mmRvlSzA/videos?view_as=subscriber">Link</a>
+----
+<span class="infoOutput">Sp3cter Productions - Art & Videos [Instagram]</span> -> <a href="https://www.instagram.com/sp3cter.productions/?hl=en">Link</a>
+<span class="infoOutput">Sp3cter Productions - Music [Beatstars]</span> -> <a href="https://www.beatstars.com/sp3cterproductions/tracks">Link</a>
+<span class="infoOutput">Sp3cter Productions - Videos [Youtube]</span> -> <a href="https://www.youtube.com/channel/UCQJahf2znxyNF9D8X4M_0sg/videos?view_as=subscriber">Link</a>
