@@ -21,11 +21,12 @@
 ====
 
 <span class="infoOutput">Frontend:</span> HTML5, CSS3, JavaScript, ReactJS & Bootstrap
-<span class="infoOutput">Backend:</span> Python, JavaScript, PHP, GraphQL, Bash, Batch & YAML
+<span class="infoOutput">Backend:</span> Python, JavaScript, PHP, GraphQL & YAML
+<span class="infoOutput">System:</span> Bash, Batch & PowerShell
 <span class="infoOutput">Databases:</span> MySQL, MariaDB, DynamoDB & MongoDB
-<span class="infoOutput">Operating Systems:</span> Microsoft Windows & Linux
-<span class="infoOutput">Cloud Environments:</span> Amazon Cloud Platform, Google Cloud Platform & Digital Ocean
-<span class="infoOutput">Environment Tools:</span> Git, NodeJS, WAMP, LAMP, Docker, NPM, Yarn, etc.<br/>
+<span class="infoOutput">Operating Systems:</span> Microsoft Windows & Linux [Debian]
+<span class="infoOutput">Cloud Environments:</span> Amazon Web Services & Google Cloud Platform
+<span class="infoOutput">Development Environments/Tools:</span> Git, NodeJS, WAMP, LAMP, Docker, NPM, Yarn, etc.<br/>
 
 <h3 class="dontBeADouce">Non-Profession Related Experience</h3>
 ====
