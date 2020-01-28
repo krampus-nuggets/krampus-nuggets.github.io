@@ -38,9 +38,14 @@
 <h3 class="dontBeADouce">Highlight Projects</h3>
 ====
 
-<span class="infoOutput">Pimp My Book</span> -> <a href="https://www.pimpmybook.co.za">Link</a>
-<span class="infoOutput">Economic Justic Network</span> -> <a href="https://www.ejn.org.za">Link</a>
-<span class="infoOutput">WeMakeArt</span> -> <a href="https://www.wemakeart.co.za">Link</a>
+<span class="infoOutput">Pimp My Book [Website - WordPress]</span> -> <a href="https://www.pimpmybook.co.za" target="_blank">Link</a>
+<span class="infoOutput">Economic Justic Network [Website - WordPress]</span> -> <a href="https://www.ejn.org.za" target="_blank">Link</a>
+<span class="infoOutput">WeMakeArt [Website - WordPress]</span> -> <a href="https://www.wemakeart.co.za" target="_blank">Link</a>
+<span class="infoOutput">Data Science Projects [Python & JavaScript]</span> -> <a href="https://github.com/krampus-nuggets/data_science" target="_blank">Link</a>
+<span class="infoOutput">Python Web Scraper [Python]</span> -> <a href="https://github.com/krampus-nuggets/indeed-scraper" target="_blank">Link</a>
+<span class="infoOutput">PuppeteerJS Web Scraper [NodeJS & CommonJS]</span> -> <a href="https://github.com/krampus-nuggets/deep-blue" target="_blank">Link</a>
+<span class="infoOutput">Fullstack AWS S3 Client [ReactJS, Serverless & GraphQL API]</span> -> <a href="https://github.com/krampus-nuggets/mother-ship" target="_blank">Link</a>
+<span class="infoOutput">Penetration Testing Toolkit [Python]</span> -> <a href="https://github.com/krampus-nuggets/arnim-zola" target="_blank">Link</a>
 
 <h3 class="dontBeADouce">Dev Social Accounts</h3>
 ====
