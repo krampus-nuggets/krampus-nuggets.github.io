@@ -50,8 +50,8 @@
 <h3 class="dontBeADouce">Dev Social Accounts</h3>
 ====
 
-<span class="infoOutput">Github</span> -> <a href="https://github.com/krampus-nuggets">Link</a>
-<span class="infoOutput">Dev.to</span> -> <a href="https://dev.to/krampusnuggets">Link</a>
+<span class="infoOutput">Github</span> -> <a href="https://github.com/krampus-nuggets" target="_blank">Link</a>
+<span class="infoOutput">Dev.to</span> -> <a href="https://dev.to/krampusnuggets" target="_blank">Link</a>
 
 <h3 class="dontBeADouce">Interested in my Creative Work?</h3>
 ====
