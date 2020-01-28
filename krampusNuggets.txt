@@ -17,7 +17,7 @@
 <span class="infoOutput">Titles:</span> Full Stack Engineer, Backend Engineer & DevOps Engineer
 <span class="infoOutput">Contact Me:</span> <a href="mailto:sp3cter.productions@wemakeart.co.za">Email</a>
 
-<h3 class="dontBeADouce">Tool/Technology Familiarity</h3>
+<h3 class="dontBeADouce">Technology/Tool Familiarity</h3>
 ====
 
 <span class="infoOutput">Frontend:</span> HTML5, CSS3, JavaScript, ReactJS & Bootstrap
