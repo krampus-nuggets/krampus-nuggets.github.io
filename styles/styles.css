@@ -19,15 +19,15 @@ a {
 	text-decoration: none;
 }
 
-#linuxPrefix {
+.linuxPrefix {
 	color: #0f0;
 }
 
-#terminalString {
+.terminalString {
 	color: #0bc;
 }
 
-#terminalSymbols {
+.terminalSymbols {
 	color: #ff0096;
 }
 
@@ -37,6 +37,11 @@ a {
 
 .dontBeADouce {
 	margin-bottom: 3px;
+}
+
+.badges {
+	max-width: 300px;
+	max-height: 300px;
 }
 
 @keyframes change {
